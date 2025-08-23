@@ -3,7 +3,7 @@
 <html lang="en" dir="ltr">
   <head>
     <title>User Registration</title>
-    <link rel="shortcut icon" href="images/logo.png">
+    <link rel="shortcut icon" href="images/logo1.jpg">
     <link rel="stylesheet" href="css/reg_style.css">
     <link rel="stylesheet"
     href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
@@ -18,7 +18,7 @@
           <div class="row">
             <div class="col-md-6">
             <div class="register-left">
-              <img src="images/logo.png">
+              <img src="images/logo1.jpg">
               <h3>Join Us</h3>
               <p>Largest Platform For Renting Agri-Equipments,Buying-Selling crops Direct From Holder</p>
               <button type="button" class="btn btn-primary">About Us</button>

@@ -9,7 +9,7 @@ include("backends/category.php");
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Products</title>
-    <link rel="shortcut icon" href="images/logo.png">
+    <link rel="shortcut icon" href="images/logo.jpeg">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
@@ -114,31 +114,31 @@ include("backends/category.php");
         <ul class="list-group">
           <li class="list-group-item active">Locations</li>
           <li class="list-group-item d-flex justify-content-between align-items-center">
-            Dhaka
+            Chitradurga
             <span class="badge badge-secondary badge-pill"><?php echo($dh); ?></span>
           </li>
           <li class="list-group-item d-flex justify-content-between align-items-center">
-            Rajshahi
+            Davangere
             <span class="badge badge-secondary badge-pill"><?php echo($rj); ?></span>
           </li>
           <li class="list-group-item d-flex justify-content-between align-items-center">
-            Chottogram
+            Shivamogga
             <span class="badge badge-secondary badge-pill"><?php echo($ch); ?></span>
           </li>
           <li class="list-group-item d-flex justify-content-between align-items-center">
-            Rangpur
+            Bengaluru
             <span class="badge badge-secondary badge-pill"><?php echo($ra); ?></span>
           </li>
           <li class="list-group-item d-flex justify-content-between align-items-center">
-            Sylhet
+            Mysore
             <span class="badge badge-secondary badge-pill"><?php echo($sy); ?></span>
           </li>
           <li class="list-group-item d-flex justify-content-between align-items-center">
-            Barishal
+            Hiriyuru
             <span class="badge badge-secondary badge-pill"><?php echo($ba); ?></span>
           </li>
           <li class="list-group-item d-flex justify-content-between align-items-center">
-            Khulna
+            Holalkere
             <span class="badge badge-secondary badge-pill"><?php echo($kh); ?></span>
           </li>
         </ul>

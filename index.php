@@ -7,8 +7,8 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Krishoker Haat</title>
-    <link rel="shortcut icon" href="images/logo.png">
+    <title>AgriTechie</title>
+    <link rel="shortcut icon" href="images/logo.jpeg">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
@@ -35,19 +35,13 @@
     </ul>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="images/one.jpg">
+        <img src="images/one.jpeg">
         <div class="carousel-caption">
-          <h1 class="display-2">Krishoker Haat</h1>
+          <h1 class="display-2">AgriTechie</h1>
           <h3>A web platform for farmers,buyers and everyone</h3>
           <a href="products.php"><button type="button" class="btn btn-outline-light btn-lg">Trading</button></a>
           <a href="equipments.php"><button type="button" class="btn btn-primary btn-lg">Equipments</button></a>
         </div>
-      </div>
-      <div class="carousel-item">
-        <img src="images/two.jpg">
-      </div>
-      <div class="carousel-item">
-        <img src="images/three.jpg">
       </div>
     </div>
   </div>
@@ -77,7 +71,7 @@
   <div class="container-fluid" id="content">
     <div class="row jumbotron">
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
-        <p class="lead">Welcome to KrishokerHaat. To access full feature you have to register/sign in here. </p>
+        <p class="lead">Welcome to AgriTechie. To access full feature you have to register/sign in here. </p>
       </div>
 
         <div class="modal fade" id="modalLoginForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
@@ -124,7 +118,7 @@
   <div class="container-fluid padding">
     <div class="row welcome text-center">
       <div class="col-12">
-        <h1 class="display-4">Welcome To krishoker haat!.</h1>
+        <h1 class="display-4">Welcome To AgriTechie!.</h1>
         </div>
       <hr>
       <div class="col-12">
@@ -183,7 +177,7 @@
     </div>
     <br>
     <div class="col-lg-6">
-      <img src="images/sider.jpg" class="img-fluid">
+      <img src="images/sider1.jpg" class="img-fluid">
       </div>
       </div>
     </div>
